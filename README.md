@@ -25,7 +25,7 @@ Atualmente liderando a inovação na **Board Labs Tech**, focada em soluções p
 
 ### 📫 Vamos nos conectar?
 * [LinkedIn](https://www.linkedin.com/in/matheus-salustiano-charles-boardlabs/)
-* **Email:** [Seu Email Profissional Aqui]
+* **Email:** [contato.bordafina@gmail.com]
 
 ---
 *"A tecnologia é o meio, a lógica é a ferramenta, e a criatividade é o limite."*
