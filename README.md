@@ -16,16 +16,12 @@ Atuo na intersecção entre criatividade estratégica e arquitetura de sistemas 
 * **Desenvolvimento & Automação:** Python (AI-Assisted), API do Discord, GitHub (Stealth Ops).
 * **Design & Web:** Canva (Power User), Frameworks No-Code, Estratégia de UI/UX.
 
-### 🏢 Foco Atual: Board Labs Tech
-Atualmente liderando a inovação na **Board Labs Tech**, focada em soluções para ecossistemas de GameDev e automação de alta performance. 
+### 🏢 Foco Atual: Fine Board Tech
+Atualmente liderando a inovação na **Fine Board Tech**, focada em soluções para ecossistemas de GameDev e automação de alta performance. 
 
 > **Nota:** Devido a acordos de confidencialidade e ao estágio de desenvolvimento (Stealth Mode), a maioria dos meus repositórios atuais são **privados**. Foco em arquitetura proprietária e lógica escalável.
 
----
 
-### 📫 Vamos nos conectar?
-* [LinkedIn](https://www.linkedin.com/in/matheus-salustiano-charles-boardlabs/)
-* **Email:** [contato.bordafina@gmail.com]
 
 ---
 *"A tecnologia é o meio, a lógica é a ferramenta, e a criatividade é o limite."*
